@@ -1,4 +1,4 @@
-# f = open("simple.txt", "r")
+# f = open("easy.txt", "r")
 f = open("input.txt", "r")
 
 total = 0
