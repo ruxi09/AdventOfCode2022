@@ -21,7 +21,7 @@ public class Main {
             char[][] grid = new char[6][40];
             while (myReader.hasNextLine()) {
                 String data = myReader.nextLine();
-                String[] arrData = data.split(" ");
+                String[] arrData = data.split(" "); EHZFZHCZ
                 //noop takes one cycle to complete
                 if(arrData[0].equals("noop")){
                     printPixel(grid, cycleCount, x);
