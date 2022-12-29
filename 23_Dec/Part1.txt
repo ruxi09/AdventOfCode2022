@@ -1,0 +1,2 @@
+with open("easy.txt") as f:
+  lines = f.read().splitlines()
